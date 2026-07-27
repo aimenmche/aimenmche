@@ -4,7 +4,6 @@
 
   <p>
     <a href="https://github.com/dzdzdzdzdzdz213/Pfe"><img src="https://img.shields.io/badge/Pfe-Radiology_Platform-58A6FF?style=flat-square&logo=react&logoColor=white" /></a>
-    <a href="https://github.com/dzdzdzdzdzdz213/Menu"><img src="https://img.shields.io/badge/Menu-Food_Ordering-58A6FF?style=flat-square&logo=react&logoColor=white" /></a>
     <a href="https://github.com/dzdzdzdzdzdz213/Flight-Reservation-Simulator"><img src="https://img.shields.io/badge/Flight_Sim-C-58A6FF?style=flat-square&logo=c&logoColor=white" /></a>
     <a href="https://github.com/dzdzdzdzdzdz213/UnoGame"><img src="https://img.shields.io/badge/Uno_Game-Java-58A6FF?style=flat-square&logo=openjdk&logoColor=white" /></a>
     <img src="https://komarev.com/ghpvc/?username=dzdzdzdzdzdz213&style=flat-square&color=58A6FF" />
@@ -24,11 +23,6 @@ CS graduate (Software Engineering) at USTHB. I build full-stack web apps with Ty
 Full-stack platform for managing a radiology clinic — patient booking, radiologist dashboards, rich-text reporting, multi-language support (FR/AR).
 
 **Stack:** TypeScript · React · Node.js · Express · PostgreSQL · Tailwind CSS
-
-### [Menu — Restaurant Discovery & Food Ordering](https://github.com/dzdzdzdzdzdz213/Menu)
-Browse restaurants, discover menus, and order food delivery online.
-
-**Stack:** React · Node.js · PostgreSQL
 
 ### [Flight Reservation Simulator](https://github.com/dzdzdzdzdzdz213/Flight-Reservation-Simulator)
 Terminal-based flight reservation system in C — seat booking, waitlist management, cancellation, and history tracking.
