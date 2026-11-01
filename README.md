@@ -1,21 +1,25 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark.svg">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/banner-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" alt="Aimen Mche — software engineer based in Algiers" width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/profile-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
+  <img src="assets/profile-light.svg" alt="Aimen Mche — IT professional based in Algiers, focused on data analysis and AI" width="100%">
 </picture>
 
 ## About
 
-I'm an IT professional based in Algiers with a strong interest in artificial intelligence. My background spans infrastructure, APIs, and frontends, and I care about building systems that are clear, reliable, and useful.
+I'm an IT professional based in Algiers with a strong interest in artificial intelligence and data analysis. My background spans infrastructure, APIs, and frontends, and I care about building systems that are clear, reliable, and useful.
+
+I turn raw data into clear answers — cleaning it, exploring it, and presenting what matters.
 
 ## Technical stack
 
-- **Languages:** TypeScript, JavaScript, Python, C, Java, PowerShell
+- **Languages:** Python, SQL, TypeScript, JavaScript, C, Java, PowerShell
+- **Data analysis:** Pandas, NumPy, Matplotlib, Jupyter, Excel
+- **AI/ML:** Python, scikit-learn
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express, Flask, REST APIs
-- **Data:** PostgreSQL, MySQL, Supabase
+- **Databases:** PostgreSQL, MySQL, Supabase
 - **Tools:** Git, GitHub
 
 ## Contact

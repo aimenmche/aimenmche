@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="660" viewBox="0 0 760 660" role="img" aria-labelledby="heroTitle heroDesc">
-  <title id="heroTitle">Aimen Mche — Software Engineer</title>
-  <desc id="heroDesc">A compact engineering plate: a connected system diagram beneath the words “I build clear, resilient software systems.”</desc>
+  <title id="heroTitle">Aimen Mche — IT Professional</title>
+  <desc id="heroDesc">A compact engineering plate: a connected data system beneath the words “I turn data into clear decisions.”</desc>
 
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
@@ -54,8 +54,8 @@
     <circle cx="48" cy="33" r="2.8" fill="#4F731C">
       <animate attributeName="opacity" values=".25;1;.25" dur="3.6s" repeatCount="indefinite"/>
     </circle>
-    <text x="60" y="37" fill="#4F731C">SOFTWARE ENGINEER / ALGIERS</text>
-    <text x="716" y="37" text-anchor="end" fill="#5E685E">SYSTEMS / INTERFACES / TOOLING</text>
+    <text x="60" y="37" fill="#4F731C">IT PROFESSIONAL / ALGIERS</text>
+    <text x="716" y="37" text-anchor="end" fill="#5E685E">DATA ANALYSIS / AI / SYSTEMS</text>
   </g>
 
   <g class="display" fill="#141A13">
@@ -65,8 +65,8 @@
 
   <path d="M44 278V334" stroke="#4F731C" stroke-opacity=".55"/>
   <g class="mono" font-size="21" fill="#3F4A3F">
-    <text x="62" y="298">I build clear, resilient</text>
-    <text x="62" y="324">software systems.</text>
+    <text x="62" y="298">I turn data into</text>
+    <text x="62" y="324">clear decisions.</text>
   </g>
 
   <g transform="translate(380 492)">
@@ -145,7 +145,7 @@
   </g>
 
   <g class="mono" font-size="8.5" letter-spacing="1.9" fill="#5E685E">
-    <text x="44" y="649">TYPESCRIPT / PYTHON / C / JAVA / POWERSHELL</text>
-    <text x="716" y="649" text-anchor="end">SOFTWARE / SYSTEMS / INTERFACES</text>
+    <text x="44" y="649">PYTHON / SQL / PANDAS / NUMPY / TYPESCRIPT</text>
+    <text x="716" y="649" text-anchor="end">SOFTWARE / DATA / INTERFACES</text>
   </g>
 </svg>

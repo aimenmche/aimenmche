@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="heroTitle heroDesc">
-  <title id="heroTitle">Aimen Mche — Software Engineer</title>
-  <desc id="heroDesc">An animated engineering plate: a connected system diagram beside the words “I build clear, resilient software systems.”</desc>
+  <title id="heroTitle">Aimen Mche — IT Professional</title>
+  <desc id="heroDesc">An animated engineering plate: a connected data system beside the words “I turn data into clear decisions.”</desc>
 
   <defs>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
@@ -58,8 +58,8 @@
     <circle cx="68" cy="35" r="3" fill="#B8FF5A">
       <animate attributeName="opacity" values=".25;1;.25" dur="3.6s" repeatCount="indefinite"/>
     </circle>
-    <text x="82" y="39" fill="#B8FF5A">SOFTWARE ENGINEER / ALGIERS</text>
-    <text x="1136" y="39" text-anchor="end" fill="#8B968C">SYSTEMS / INTERFACES / TOOLING</text>
+    <text x="82" y="39" fill="#B8FF5A">IT PROFESSIONAL / ALGIERS</text>
+    <text x="1136" y="39" text-anchor="end" fill="#8B968C">DATA ANALYSIS / AI / SYSTEMS</text>
   </g>
 
   <!-- name -->
@@ -71,8 +71,8 @@
   <!-- statement -->
   <path d="M64 320V376" stroke="#B8FF5A" stroke-opacity=".55"/>
   <g class="mono" font-size="18" fill="#C9D1C8" letter-spacing="-.2">
-    <text x="84" y="344">I build clear, resilient</text>
-    <text x="84" y="370">software systems.</text>
+    <text x="84" y="344">I turn data into</text>
+    <text x="84" y="370">clear decisions.</text>
   </g>
 
   <!-- system diagram -->
@@ -156,7 +156,7 @@
 
   <!-- footer metadata -->
   <g class="mono" font-size="10" letter-spacing="2.2" fill="#8B968C">
-    <text x="64" y="433">TYPESCRIPT / PYTHON / C / JAVA / POWERSHELL</text>
-    <text x="1136" y="433" text-anchor="end">SOFTWARE / SYSTEMS / INTERFACES</text>
+    <text x="64" y="433">PYTHON / SQL / PANDAS / NUMPY / TYPESCRIPT</text>
+    <text x="1136" y="433" text-anchor="end">SOFTWARE / DATA / INTERFACES</text>
   </g>
 </svg>
