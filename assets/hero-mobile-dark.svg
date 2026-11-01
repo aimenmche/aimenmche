@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="660" viewBox="0 0 760 660" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Aimen Mche — Field Station 213</title>
+  <desc id="heroDesc">A compact specimen plate: a living network inside a petri dish, beneath the words “I build small systems and watch what they become.”</desc>
+
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#F1EEE3" stroke-opacity=".035"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#B8FF5A" stop-opacity=".13"/>
+      <stop offset=".55" stop-color="#63D6C5" stop-opacity=".045"/>
+      <stop offset="1" stop-color="#080A09" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="scanline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B8FF5A" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#B8FF5A" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#B8FF5A" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+  </defs>
+
+  <style>
+    .display { font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif; }
+    .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+    .spin { animation: spin 150s linear infinite; transform-box: fill-box; transform-origin: center; }
+    .spin-rev { animation: spin-rev 210s linear infinite; transform-box: fill-box; transform-origin: center; }
+    .scan { animation: scan 12s ease-in-out infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes spin-rev { to { transform: rotate(-360deg); } }
+    @keyframes scan {
+      0%, 100% { transform: translateY(-92px); opacity: 0; }
+      12% { opacity: .8; }
+      50% { transform: translateY(92px); opacity: .55; }
+      88% { opacity: .8; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .spin, .spin-rev, .scan { animation: none; }
+    }
+  </style>
+
+  <rect width="760" height="660" fill="#080A09"/>
+  <rect width="760" height="660" fill="url(#grid)"/>
+  <ellipse cx="380" cy="492" rx="280" ry="210" fill="url(#glow)"/>
+  <rect width="760" height="660" filter="url(#grain)" opacity=".03"/>
+
+  <path d="M44 56H716" stroke="#F1EEE3" stroke-opacity=".14"/>
+  <path d="M44 632H716" stroke="#F1EEE3" stroke-opacity=".14"/>
+
+  <g class="mono" font-size="9.5" letter-spacing="2.2">
+    <circle cx="48" cy="33" r="2.8" fill="#B8FF5A">
+      <animate attributeName="opacity" values=".25;1;.25" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="60" y="37" fill="#B8FF5A">FIELD STATION 213</text>
+    <text x="716" y="37" text-anchor="end" fill="#8B968C">36.7538° N / 3.0588° E</text>
+  </g>
+
+  <g class="display" fill="#F1EEE3">
+    <text x="42" y="158" font-size="92" letter-spacing="-3">Aimen</text>
+    <text x="42" y="246" font-size="92" letter-spacing="-3">Mche</text>
+  </g>
+
+  <path d="M44 278V334" stroke="#B8FF5A" stroke-opacity=".55"/>
+  <g class="mono" font-size="21" fill="#C9D1C8">
+    <text x="62" y="298">I build small systems</text>
+    <text x="62" y="324">and watch what they become.</text>
+  </g>
+
+  <g transform="translate(380 492)">
+    <circle r="112" fill="none" stroke="#F1EEE3" stroke-opacity=".14"/>
+    <g class="spin-rev">
+      <circle r="119" fill="none" stroke="#F1EEE3" stroke-opacity=".16" stroke-dasharray="2 18"/>
+    </g>
+    <g class="spin">
+      <circle r="126" fill="none" stroke="#B8FF5A" stroke-opacity=".32" stroke-width="5" stroke-linecap="round" stroke-dasharray="1 12"/>
+    </g>
+
+    <path d="M-112 0H112M0 -112V112" stroke="#F1EEE3" stroke-opacity=".05"/>
+    <circle r="84" fill="none" stroke="#F1EEE3" stroke-opacity=".06" stroke-dasharray="2 9"/>
+
+    <g class="mono" fill="#8B968C" font-size="7" letter-spacing="2.6">
+      <text x="0" y="-90" text-anchor="middle">SPECIMEN 001</text>
+      <text x="0" y="99" text-anchor="middle" letter-spacing="1.8">CULTURE / <tspan fill="#B8FF5A">ACTIVE</tspan></text>
+    </g>
+
+    <g transform="scale(.78)">
+      <g fill="none" stroke="#C9D1C8" stroke-opacity=".28" stroke-width="1.1">
+        <path d="M-60 -56L-10 -82L48 -68L84 -18L66 42L24 76L-32 82L-78 46L-92 -14Z"/>
+        <path d="M-10 -82L0 -28L48 -68"/>
+        <path d="M0 -28L-16 8L-60 -56"/>
+        <path d="M-16 8L-32 82"/>
+        <path d="M-16 8L30 16L84 -18"/>
+        <path d="M30 16L66 42"/>
+        <path d="M0 -28L30 16"/>
+      </g>
+
+      <g fill="#B8FF5A">
+        <circle cx="-60" cy="-56" r="3.1"/>
+        <circle cx="-10" cy="-82" r="4"/>
+        <circle cx="48" cy="-68" r="2.9"/>
+        <circle cx="84" cy="-18" r="2.6" fill="#C9D1C8" fill-opacity=".55"/>
+        <circle cx="66" cy="42" r="2.9"/>
+        <circle cx="24" cy="76" r="3.8"/>
+        <circle cx="-32" cy="82" r="2.6" fill="#C9D1C8" fill-opacity=".55"/>
+        <circle cx="-78" cy="46" r="2.9"/>
+        <circle cx="-92" cy="-14" r="2.6" fill="#C9D1C8" fill-opacity=".55"/>
+        <circle cx="-16" cy="8" r="3.8"/>
+        <circle cx="30" cy="16" r="3.1"/>
+        <circle cx="0" cy="-28" r="2.9"/>
+      </g>
+
+      <g fill="none" stroke="#B8FF5A">
+        <circle cx="-10" cy="-82" r="4.5" stroke-opacity=".55">
+          <animate attributeName="r" values="4.5;21" dur="5.4s" begin="0s" repeatCount="indefinite"/>
+          <animate attributeName="stroke-opacity" values=".55;0" dur="5.4s" begin="0s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="-10" cy="-82" r="4.5" stroke-opacity=".35">
+          <animate attributeName="r" values="4.5;21" dur="5.4s" begin="2.7s" repeatCount="indefinite"/>
+          <animate attributeName="stroke-opacity" values=".35;0" dur="5.4s" begin="2.7s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="24" cy="76" r="4.5" stroke="#F0A45C" stroke-opacity=".45">
+          <animate attributeName="r" values="4.5;19" dur="6.8s" begin="1.2s" repeatCount="indefinite"/>
+          <animate attributeName="stroke-opacity" values=".45;0" dur="6.8s" begin="1.2s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+
+      <g stroke="#F0A45C" stroke-width="1.5" fill="none" stroke-opacity=".85">
+        <polygon points="0,-8 7,6 -7,6" transform="translate(-46 44) rotate(-24)"/>
+        <polygon points="0,-6 5.2,4.5 -5.2,4.5" transform="translate(54 -44) rotate(38)"/>
+      </g>
+
+      <g fill="#B8FF5A">
+        <polygon points="0,-5.5 4.8,4.2 -4.8,4.2"/>
+        <animateMotion dur="36s" repeatCount="indefinite" rotate="auto"
+          path="M-102 0C-102 -56 -56 -102 0 -102C56 -102 102 -56 102 0C102 56 56 102 0 102C-56 102 -102 56 -102 0Z"/>
+      </g>
+    </g>
+
+    <g class="scan">
+      <rect x="-106" y="0" width="212" height="1" fill="url(#scanline)"/>
+    </g>
+  </g>
+
+  <g class="mono" font-size="8.5" letter-spacing="1.9" fill="#8B968C">
+    <text x="44" y="649">SOFTWARE / SYSTEMS / SYNTHETIC ECOLOGY</text>
+    <text x="716" y="649" text-anchor="end">ACTIVE SINCE 2023</text>
+  </g>
+</svg>

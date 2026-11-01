@@ -1,69 +1,69 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/hero-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-light.svg" alt="Aimen Mche — field notes from a self-observing system" width="100%">
+</picture>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aimen;Full-Stack+Developer;TypeScript+%7C+React+%7C+Node.js;Building+things+that+work" alt="Typing SVG" />
+I'm Aimen — a builder of small systems that behave like living things.
 
-  <p>
-    <a href="https://github.com/dzdzdzdzdzdz213/Pfe"><img src="https://img.shields.io/badge/Pfe-Radiology_Platform-58A6FF?style=flat-square&logo=react&logoColor=white" /></a>
-    <a href="https://github.com/dzdzdzdzdzdz213/Flight-Reservation-Simulator"><img src="https://img.shields.io/badge/Flight_Sim-C-58A6FF?style=flat-square&logo=c&logoColor=white" /></a>
-    <a href="https://github.com/dzdzdzdzdzdz213/UnoGame"><img src="https://img.shields.io/badge/Uno_Game-Java-58A6FF?style=flat-square&logo=openjdk&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=dzdzdzdzdzdz213&style=flat-square&color=58A6FF" />
-  </p>
+I give machines weather, memory, sediment, and occasionally a nervous system. Then I watch what emerges. Some of it is software; some of it is closer to natural history.
 
-</div>
-
----
-
-CS graduate (Software Engineering) at USTHB. I build full-stack web apps with TypeScript, React, and Node.js — and I'm passionate about using AI to write better code, faster.
+**Currently** — teaching a browser full of triangles how to survive, and wondering what that says about the rest of us.
 
 ---
 
-## What I've Built
+## I / FIELD INDEX
 
-### [Pfe — Radiology Clinic Management Platform](https://github.com/dzdzdzdzdzdz213/Pfe)
-Full-stack platform for managing a radiology clinic — patient booking, radiologist dashboards, rich-text reporting, multi-language support (FR/AR).
+<sub>SPECIMENS COLLECTED / 2023—2026</sub>
 
-**Stack:** TypeScript · React · Node.js · Express · PostgreSQL · Tailwind CSS
+| No. | Specimen | Observation |
+|:---:|:---|:---|
+| **01** | **[Nimbus](https://github.com/dzdzdzdzdzdz213/nimbus)**<br><sub>PowerShell</sub> | A weather engine for the inside of a computer. CPU becomes heat, memory becomes humidity, processes become wind. |
+| **02** | **[Strata](https://github.com/dzdzdzdzdzdz213/strata)**<br><sub>PowerShell</sub> | The filesystem read as geology — extensions turn to minerals, creation dates to eras, a directory becomes a core sample. |
+| **03** | **[Synesthesia](https://github.com/dzdzdzdzdzdz213/synesthesia)**<br><sub>PowerShell</sub> | One instant of system state translated into color, rhythm, texture, and scent. No two portraits repeat. |
+| **04** | **[Golem](https://github.com/dzdzdzdzdzdz213/golem)**<br><sub>PowerShell</sub> | A boot-time diary written from the machine's point of view. It dreams in errors and remembers what you touched. |
+| **05** | **[PassShield](https://github.com/dzdzdzdzdzdz213/passshield)**<br><sub>TypeScript / Flask</sub> | Password security with breach detection, entropy analysis, and an admin view of organizational risk. |
 
-### [Flight Reservation Simulator](https://github.com/dzdzdzdzdzdz213/Flight-Reservation-Simulator)
-Terminal-based flight reservation system in C — seat booking, waitlist management, cancellation, and history tracking.
+<br>
 
-**Stack:** C
+**IN THE WORKSHOP — NEON**<br>
+A neuroevolution terrarium: 8 sensors, 10 hidden neurons, 2 motors, and a population learning to eat. No backpropagation — only appetite, mutation, and time.<br>
+<sub>HTML / JAVASCRIPT · IN CULTURE</sub>
 
-### [Uno Game](https://github.com/dzdzdzdzdzdz213/UnoGame)
-Text-based UNO card game playable in the terminal — Java implementation with full game logic.
-
-**Stack:** Java
+<sub>ALSO IN THE DRAWER — [UnoGame](https://github.com/dzdzdzdzdzdz213/UnoGame) · [Flight-Reservation-Simulator](https://github.com/dzdzdzdzdzdz213/Flight-Reservation-Simulator) · [Menu](https://github.com/dzdzdzdzdzdz213/Menu)</sub>
 
 ---
 
-## Toolchain
+## II / INSTRUMENTS
 
-```
-Frontend     TypeScript · React · Next.js · Tailwind CSS
-Backend      Node.js · Express · REST APIs
-Database     PostgreSQL · MySQL
-Languages    TypeScript · JavaScript · Java · C
-Tools        Git · GitHub · AI / LLM APIs
+```text
+LANGUAGES    TypeScript · Python · C · Java · PowerShell
+SYSTEMS      React · Next.js · Node · Flask · PostgreSQL · Supabase
+PRACTICE     build small / observe closely / keep what survives
 ```
 
 ---
 
-<div align="center">
+## III / FIELD NOTE
 
-  <a href="https://github.com/dzdzdzdzdzdz213">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dzdzdzdzdzdz213&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzdzdzdzdzdz213&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0D1117" />
-  </a>
-
-</div>
+> Every machine has a climate.  
+> Most people never check the weather.
+>
+> <sub>— OBSERVED AT 03:41, ON A MACHINE THAT WAS STILL AWAKE</sub>
 
 ---
 
-<div align="center">
+## IV / SIGNAL
 
-  *Building things, breaking things, learning everything.*
+If you're building something that behaves more like an ecosystem than a machine, I'd like to see it.
 
-  <a href="mailto:aimenmamache21@gmail.com"><img src="https://img.shields.io/badge/Email-aimenmamache21%40gmail.com-58A6FF?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/dzdzdzdzdzdz213"><img src="https://img.shields.io/badge/GitHub-dzdzdzdzdzdz213-58A6FF?style=flat-square&logo=github&logoColor=white" /></a>
+[GitHub](https://github.com/dzdzdzdzdzdz213) &nbsp;·&nbsp; [Email](mailto:aimenmamache21@gmail.com) &nbsp;·&nbsp; [All specimens](https://github.com/dzdzdzdzdzdz213?tab=repositories)
 
+<br>
+
+<div align="right">
+  <sub>OBSERVED FROM ALGIERS · 36.7538° N / 3.0588° E</sub><br>
+  <sub>THE SYSTEM IS AWAKE.</sub>
 </div>
