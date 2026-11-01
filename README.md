@@ -6,11 +6,11 @@
   <img src="assets/hero-light.svg" alt="Aimen Mche — field notes from a self-observing system" width="100%">
 </picture>
 
-I'm Aimen — a builder of small systems that behave like living things.
+I'm Aimen — a builder and observer from Algiers.
 
-I give machines weather, memory, sediment, and occasionally a nervous system. Then I watch what emerges. Some of it is software; some of it is closer to natural history.
+I like systems that surprise you: the ones where a simple rule, followed honestly, turns into something you didn't plan. That's usually where I start.
 
-**Currently** — teaching a browser full of triangles how to survive, and wondering what that says about the rest of us.
+**Currently** — following a few questions further than is strictly reasonable.
 
 ---
 
