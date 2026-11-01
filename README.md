@@ -1,9 +1,9 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg?v=2">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/hero-mobile-light.svg?v=2">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg?v=2">
-  <img src="assets/hero-light.svg?v=2" alt="Aimen Mche — software engineer based in Algiers" width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/banner-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/banner-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" alt="Aimen Mche — software engineer based in Algiers" width="100%">
 </picture>
 
 ## About
