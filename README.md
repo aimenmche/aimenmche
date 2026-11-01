@@ -8,7 +8,7 @@
 
 ## About
 
-I'm a software engineer based in Algiers. I work across the stack — typed frontends, APIs, and systems tooling — with a focus on clear architecture, reliable behavior, and interfaces that stay out of the way.
+I'm an IT professional based in Algiers with a strong interest in artificial intelligence. My background spans infrastructure, APIs, and frontends, and I care about building systems that are clear, reliable, and useful.
 
 ## Technical stack
 
