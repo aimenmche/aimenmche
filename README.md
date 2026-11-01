@@ -10,21 +10,6 @@
 
 I'm a software engineer based in Algiers. I work across the stack — typed frontends, APIs, and systems tooling — with a focus on clear architecture, reliable behavior, and interfaces that stay out of the way.
 
-## Selected work
-
-| Project | What it does | Stack |
-|:--|:--|:--|
-| **[Nimbus](https://github.com/dzdzdzdzdzdz213/nimbus)** | A real-time system monitor that maps CPU, memory, and disk activity to a live weather simulation. | `PowerShell` |
-| **[Strata](https://github.com/dzdzdzdzdzdz213/strata)** | A filesystem visualization that renders directories as geological strata, revealing composition and age at a glance. | `PowerShell` |
-| **[Synesthesia](https://github.com/dzdzdzdzdzdz213/synesthesia)** | A cross-sensory system portrait that translates live metrics into color, rhythm, texture, and scent. | `PowerShell` |
-| **[Golem](https://github.com/dzdzdzdzdzdz213/golem)** | A boot-time journaling daemon that writes reflective entries from system logs, file activity, and network state. | `PowerShell` |
-| **[PassShield](https://github.com/dzdzdzdzdzdz213/passshield)** | A full-stack password security platform with breach detection, entropy scoring, secure generation, and an admin dashboard. | `TypeScript` · `Python` · `Flask` |
-
-### In development
-
-**NEON** — a browser-based neuroevolution sandbox where organisms learn to forage through selection and mutation.<br>
-`HTML` · `JavaScript`
-
 ## Technical stack
 
 - **Languages:** TypeScript, JavaScript, Python, C, Java, PowerShell
