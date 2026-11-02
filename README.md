@@ -2,47 +2,37 @@
 
 **Data analysis & AI · Algiers, Algeria**
 
-I build reproducible data analyses and practical AI tools with Python and SQL. My work sits between data engineering, statistics, and applied AI.
+I work on the quiet part of data: cleaning it, questioning it, and turning it into something someone can decide with.
 
-## Currently
+---
 
-Building reproducible analysis pipelines and small AI tools.
+### How I work
 
-## Selected work
+**A good question beats a big dataset.**  
+Scope is a form of respect — for the data and for the reader.
 
-### [Projet SARM](https://github.com/aimenmche/Projet_Maladie_SARM)
-Reproducible Shell + Python pipeline analysing 175,586 *Staphylococcus aureus* isolates from NCBI. Identifies resistance genes associated with MRSA and multidrug resistance using Fisher exact tests and Benjamini–Hochberg correction.  
-`Python` `pandas` `SciPy` `Shell` `ReportLab`
+**Reproducible, or it didn't happen.**  
+If I can't run it again from scratch, I don't trust the result.
 
-### [PassShield](https://github.com/aimenmche/passshield)
-Full-stack password security platform with breach detection, entropy scoring, secure generation, and an admin dashboard.  
-`TypeScript` `React` `Node.js`
+**Clarity is part of the work.**  
+An analysis that needs a translator is not finished.
 
-### [Jarvis](https://github.com/aimenmche/jarvis)
-Voice-activated desktop assistant with wake-word detection, screenshots, app control, and LLM-powered responses.  
-`Python` `LLM` `Desktop automation`
+---
 
-### [Strata](https://github.com/aimenmche/strata)
-Filesystem visualization that renders directories as geological strata, revealing composition and age at a glance.  
-`JavaScript` `Data visualization`
+### Currently
 
-### [Nimbus](https://github.com/aimenmche/nimbus)
-Real-time system monitor that maps CPU, memory, and disk activity to a live weather simulation.  
-`JavaScript` `Data visualization`
+- Building reproducible analysis pipelines in Python
+- Exploring applied AI and statistical testing
+- Learning to write more clearly, and to say less
 
-## Focus
+### Toolbox
 
-- Reproducible data analysis and statistical testing
-- Python tooling and automation
-- Applied AI and LLM-powered interfaces
-- Clear data visualization
+| Area | Tools |
+|---|---|
+| **Data** | Python · SQL · pandas · NumPy · SciPy · Matplotlib · scikit-learn |
+| **Engineering** | Git · Linux · REST APIs · Flask · Node.js |
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS |
 
-## Toolbox
+---
 
-**Data:** Python, SQL, pandas, NumPy, SciPy, Matplotlib, scikit-learn  
-**Engineering:** Git, Linux, REST APIs, Flask, Node.js  
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS
-
-## Contact
-
-[Email](mailto:aimenmamache21@gmail.com) · [GitHub](https://github.com/aimenmche)
+<sub>Algiers, Algeria · [Email](mailto:aimenmamache21@gmail.com) · [GitHub](https://github.com/aimenmche)</sub>
