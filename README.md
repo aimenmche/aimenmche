@@ -1,34 +1,33 @@
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile-mobile-dark.svg">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/profile-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
-  <img src="assets/profile-light.svg" alt="Aimen Mche — IT professional based in Algiers, focused on data analysis and AI" width="100%">
-</picture>
+# Aimen Mche
 
-## About
+**Data analysis & AI · Algiers, Algeria**
 
-I'm an IT professional based in Algiers with a strong interest in artificial intelligence and data analysis. My background spans infrastructure, APIs, and frontends, and I care about building systems that are clear, reliable, and useful.
+I use Python and SQL to build reproducible analyses and practical tools. My work sits between data engineering, statistics, and applied AI.
 
-I turn raw data into clear answers — cleaning it, exploring it, and presenting what matters.
+## Selected work
 
-## Technical stack
+**[Projet SARM](https://github.com/dzdzdzdzdzdz213/Projet_Maladie_SARM)**  
+Shell + Python pipeline analysing 175,586 *Staphylococcus aureus* isolates from NCBI. Identifies resistance genes associated with MRSA and multidrug resistance using Fisher exact tests and Benjamini–Hochberg correction.  
+`Python` `pandas` `SciPy` `Shell` `ReportLab`
 
-- **Languages:** Python, SQL, TypeScript, JavaScript, C, Java, PowerShell
-- **Data analysis:** Pandas, NumPy, Matplotlib, Jupyter, Excel
-- **AI/ML:** Python, scikit-learn
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, Flask, REST APIs
-- **Databases:** PostgreSQL, MySQL, Supabase
-- **Tools:** Git, GitHub
+**[PassShield](https://github.com/dzdzdzdzdzdz213/passshield)**  
+Full-stack password security platform with breach detection, entropy scoring, secure generation, and an admin dashboard.  
+`TypeScript` `React` `Node.js`
+
+**[Jarvis](https://github.com/dzdzdzdzdzdz213/jarvis)**  
+Voice-activated desktop assistant with wake-word detection, screenshots, app control, and LLM-powered responses.  
+`Python` `LLM` `Desktop automation`
+
+**[Strata](https://github.com/dzdzdzdzdzdz213/strata)**  
+Filesystem visualization that renders directories as geological strata, revealing composition and age at a glance.  
+`JavaScript` `Data visualization`
+
+## Stack
+
+**Data:** Python, SQL, pandas, NumPy, SciPy, Matplotlib, scikit-learn  
+**Engineering:** Git, Linux, REST APIs, Flask, Node.js  
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS
 
 ## Contact
 
-- **Email:** [aimenmamache21@gmail.com](mailto:aimenmamache21@gmail.com)
-- **GitHub:** [@dzdzdzdzdzdz213](https://github.com/dzdzdzdzdzdz213)
-
-<br>
-
-<div align="right">
-  <sub>Based in Algiers, Algeria · 36.7538° N, 3.0588° E</sub>
-</div>
+[Email](mailto:aimenmamache21@gmail.com) · [GitHub](https://github.com/dzdzdzdzdzdz213)
